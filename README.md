@@ -39,18 +39,3 @@ This portfolio showcases my skills, projects, experience, and contact informatio
 - Vercel (Deployment)
 
 ---
-
-## 📁 Folder Structure
-my-portfolio/
-│
-├── public/
-├── src/
-│ ├── assets/ # Images, icons, screenshots
-│ ├── components/ # Reusable components (Navbar, Footer, etc.)
-│ ├── pages/ # Sections (Home, About, Projects, Contact)
-│ ├── App.js
-│ ├── index.js
-│ └── styles/
-│
-├── package.json
-└── README.md
